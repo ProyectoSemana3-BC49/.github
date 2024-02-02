@@ -1,7 +1,7 @@
-# Sistema de Gestión Bancario - Documentación para el proyecto #2
+# Sistema de Gestión Bancario - Documentación para el proyecto #3
 
 ¡Bienvenidos!
-A continuación presento la documentación del sistema de gestión Bancario como parte del proyecto #2. Se ha desarrollado una arquitectura basada en microservicios para proporcionar soluciones eficientes y modernas en la gestión bancaria. En esta ocasión se estará utilizando la libreria RXJava, la cual nos ayudará para poder desarrollar de forma reactiva.
+A continuación presento la documentación del sistema de gestión Bancario como parte del proyecto #3. Se ha desarrollado una arquitectura basada en microservicios para proporcionar soluciones eficientes y modernas en la gestión bancaria. En esta ocasión se estará utilizando Spring WebFlux, la cual nos ayudará para poder desarrollar de forma reactiva.
 Del mismo modo se amplía las funcionalidades requeridas.
 
 ## Vista General
@@ -13,16 +13,16 @@ La imagen anterior ofrece una visión general de la arquitectura, donde cada mic
 ## Herramientas utilizadas
 
 ### Sonarqube
-![Sonarqube](https://raw.githubusercontent.com/ProyectoSemana2-BC49/.github/main/res/sonarqube.PNG)
+![Sonarqube](https://raw.githubusercontent.com/ProyectoSemana3-BC49/.github/main/res/sonarqube.PNG)
 
 ### HashiCorp Vault
-![Sonarqube](https://raw.githubusercontent.com/ProyectoSemana2-BC49/.github/main/res/vault.PNG)
+![Sonarqube](https://raw.githubusercontent.com/ProyectoSemana3-BC49/.github/main/res/vault.PNG)
 
 ### JaCoCo
-![Sonarqube](https://raw.githubusercontent.com/ProyectoSemana2-BC49/.github/main/res/jacoco.PNG)
+![Sonarqube](https://raw.githubusercontent.com/ProyectoSemana3-BC49/.github/main/res/jacoco.PNG)
 
 ### Editor Swagger
-![Sonarqube](https://raw.githubusercontent.com/ProyectoSemana2-BC49/.github/main/res/swagger.PNG)
+![Sonarqube](https://raw.githubusercontent.com/ProyectoSemana3-BC49/.github/main/res/swagger.PNG)
 
 ## Repositorios
 
