@@ -11,9 +11,11 @@ Del mismo modo se amplía las funcionalidades requeridas.
 La imagen anterior ofrece una visión general de la arquitectura, donde cada microservicio cumple un papel crucial en la entrega de funcionalidades específicas. A continuación, proporciono detalles sobre cada repositorio que forma parte de este proyecto.
 
 ## Herramientas utilizadas
+### SonarQube
+![sonar](https://raw.githubusercontent.com/ProyectoSemana3-BC49/.github/main/res/sonarsem3.PNG)
 
 ### CheckStyle
-![Sonarqube](https://raw.githubusercontent.com/ProyectoSemana3-BC49/.github/main/res/checkstyle.PNG)
+![Checkstyle](https://raw.githubusercontent.com/ProyectoSemana3-BC49/.github/main/res/checkstyle.PNG)
 
 ### Editor Swagger
 ![Sonarqube](https://raw.githubusercontent.com/ProyectoSemana3-BC49/.github/main/res/swagger.PNG)
