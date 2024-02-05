@@ -12,14 +12,8 @@ La imagen anterior ofrece una visión general de la arquitectura, donde cada mic
 
 ## Herramientas utilizadas
 
-### Sonarqube
-![Sonarqube](https://raw.githubusercontent.com/ProyectoSemana3-BC49/.github/main/res/sonarqube.PNG)
-
-### HashiCorp Vault
-![Sonarqube](https://raw.githubusercontent.com/ProyectoSemana3-BC49/.github/main/res/vault.PNG)
-
-### JaCoCo
-![Sonarqube](https://raw.githubusercontent.com/ProyectoSemana3-BC49/.github/main/res/jacoco.PNG)
+### CheckStyle
+![Sonarqube](https://raw.githubusercontent.com/ProyectoSemana3-BC49/.github/main/res/checkstyle.PNG)
 
 ### Editor Swagger
 ![Sonarqube](https://raw.githubusercontent.com/ProyectoSemana3-BC49/.github/main/res/swagger.PNG)
